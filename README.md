@@ -7,7 +7,7 @@ I am a Spanish-British front-end developer based in Spain | :es: :uk: |
 
 👯 I’m looking to collaborate on anything I can get my hands on!
 
-💬 Ask me about anything!!
+💬 Ask me about anything!
 
 📫 How to reach me: https://www.linkedin.com/in/anabescos
 
