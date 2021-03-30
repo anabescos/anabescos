@@ -3,7 +3,7 @@
 Hi there 👋
 I am a Spanish-British front-end developer based in Spain | :es: :uk: |
 
-🌱 I’m currently learning NodeJS Express JS SQLite
+🌱 I’m currently learning NodeJS ExpressJS 
 
 👯 I’m looking to collaborate on anything I can get my hands on!
 
