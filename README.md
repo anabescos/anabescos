@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 Hi there 👋
-I am a Spanish-British front-end developer based in Spain :es: :uk:
+I am a Spanish-British front-end developer based in Spain | :es: :uk: |
 
 🌱 I’m currently learning NodeJS Express JS SQLite
 
