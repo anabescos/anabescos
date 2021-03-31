@@ -1,7 +1,7 @@
 
 
 Hi there 👋
-I am a Spanish-British front-end developer based in Spain | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png" alt="Spanish flag" width="30" height="10" /> <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="UK flag" width="30" height="30"/> | 
+I am a Spanish-British front-end developer based in Spain | <img src="https://upload.wikimedia.org/wikipedia/en/thumb/9/9a/Flag_of_Spain.svg/1200px-Flag_of_Spain.svg.png" alt="Spanish flag" width="30" height="20" /> <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" alt="UK flag" width="30" height="30"/> | 
 An educator, trained as a FrontEnd developer. My work experience in UK helped me develop a wide range of transferable skills, such as: communication, adaptability, stress-management, team work, emotional intelligence and English language to a professional level.
 
 In 2020 I was involved in the creation of my own educational project, an online language exchange platform for teenagers. It was then when I discovered the world of coding and its connections with linguistics. My interests and my willingness to face new challenges made me explore this field and find my new profession.
