@@ -7,7 +7,6 @@ An educator, trained as a FrontEnd developer. My work experience in UK helped me
 
 In 2020 I was involved in the creation of my own educational project, an online language exchange platform for teenagers. It was then when I discovered the world of coding and its connections with linguistics. My interests and my willingness to face new challenges made me explore this field and find my new profession.
 
-🌱 I’m currently learning NodeJS ExpressJS 
 
 👯 I’m looking to collaborate on anything I can get my hands on!
 
@@ -15,7 +14,7 @@ In 2020 I was involved in the creation of my own educational project, an online 
 
 📫 How to reach me: https://www.linkedin.com/in/anabescos
 
-😄 Pronouns: she/her
+
 
 
 I'm always learning but here are a few technologies I have worked with recently:
